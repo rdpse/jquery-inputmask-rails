@@ -1,7 +1,7 @@
 module Jquery
   module Inputmask
     module Rails
-      VERSION = "2.5.5"
+      VERSION = "3.2.6-30"
     end
   end
 end
